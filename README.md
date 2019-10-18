@@ -1,8 +1,18 @@
-# Türkçe Git 101
+---
+description: Yeni başlayanlar için Git (Versiyon Kontrol Sistemi) kitabı
+---
+
+# 📕 Türkçe Git 101
+
+## 🗽 Ufak Bilgiler
+
+- ❗ Bu içerik [YEmreAk.com](https://yemreak.com)'a ait değildir.
+- Projenin aslına [git101_book](https://github.com/aliozgur/git101_book) bağlantısından erişebilirsin.
+- [**Kitabın basılı halini online olarak da satın alabilirsiniz**](https://www.dikeyeksen.com/products/git-ile-versiyon-kontrolu)
+
+> GitHub üzerinde **ücretsiz** olarak sunulduğu için sitemde (kendimce) daha güzel ve indekslenebilir bir yapıya çevirerek sunum hizmeti vermekteyim.
 
 ## Önsöz
-
-#### [**Kitabın basılı halini online olarak da satın alabilirsiniz**](https://www.dikeyeksen.com/products/git-ile-versiyon-kontrolu)
 
 ---
 
